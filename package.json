@@ -1,0 +1,23 @@
+{
+  "name": "eye-disease-detection",
+  "version": "1.0.0",
+  "description": "detection eye disease through camera",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maddydevgits/eye-disease-detector-web-app.git"
+  },
+  "author": "maddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maddydevgits/eye-disease-detector-web-app/issues"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "homepage": "https://github.com/maddydevgits/eye-disease-detector-web-app#readme"
+}
