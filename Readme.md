@@ -1,6 +1,9 @@
 # About Project
 Eye Disease Detector is a web application which diagnoise the eye through camera. It uses deep convolutional neural network for predicting the eye disease.
 
+# Dataset
+https://www.kaggle.com/datasets/kondwani/eye-disease-dataset
+
 # Softwares
 1. NodeJs
 2. VS Code
